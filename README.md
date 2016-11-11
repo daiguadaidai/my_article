@@ -1,4 +1,13 @@
 # MySQL,大数据,Python（文章分享）
+昵称：HH
+QQ：275258836
+
+[感觉本文内容不错，读后有收获？](https://shop127352015.taobao.com/?spm=a230r.7195193.1997079397.2.B0seHv)
+
+[逛逛衣服店，鼓励作者写出更好文章。](https://shop127352015.taobao.com/?spm=a230r.7195193.1997079397.2.B0seHv)
+
+[70、Python数据分析-CDN_IP对应地区-MRJob](http://www.ttlsa.com/python/python-big-data-analysis-cdn-ip-addr-mrjob/)
+
 [69、Python数据分析-Join实现-MRJob](http://www.ttlsa.com/python/python-big-data-analysis-join-mrjob/)
 
 [68、Python数据分析-真实IP请求-Pandas](http://www.ttlsa.com/python/python-big-data-reao-ip-req-count-pandas/)
