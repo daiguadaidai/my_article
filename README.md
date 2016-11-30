@@ -5,6 +5,10 @@ QQ：275258836
 [感觉本文内容不错，读后有收获？](https://shop127352015.taobao.com/?spm=a230r.7195193.1997079397.2.B0seHv)
 [逛逛衣服店，鼓励作者写出更好文章。](https://shop127352015.taobao.com/?spm=a230r.7195193.1997079397.2.B0seHv)
 
+[77、Maxscale安装-读写分离(1)](http://www.ttlsa.com/mysql/maxscale-install-read-write-split/)
+
+[76、Pandas、Mrjob Python数据分析文章汇总](http://www.ttlsa.com/yuanchuang/pandas-mrjob-python-list/)
+
 [75、Python数据分析(物品推荐)-Pandas](http://www.ttlsa.com/python/python-big-data-goods-recommand-pandas/)
 
 [74、Python数据分析(物品推荐)-MRJob](http://www.ttlsa.com/python/python-big-data-analysis-goods-recommend-mrjob/)
