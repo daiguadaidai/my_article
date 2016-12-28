@@ -6,6 +6,8 @@ QQ：275258836
 [感觉本文内容不错，读后有收获？](https://shop127352015.taobao.com/?spm=a230r.7195193.1997079397.2.B0seHv)
 [逛逛衣服店，鼓励作者写出更好文章。](https://shop127352015.taobao.com/?spm=a230r.7195193.1997079397.2.B0seHv)
 
+[83、利用binlog完成实时计算](http://www.ttlsa.com/database/mysql-binlog-complete-real-time-computing/)
+
 [82、MySQL分区表和HBase永结连理](http://www.ttlsa.com/database/mysql-partition-and-hbase-marry/)
 
 [81、Maxscale-高可用配置(5)](http://www.ttlsa.com/mysql/maxscale-ha-configuration/)
