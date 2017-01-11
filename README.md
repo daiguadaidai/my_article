@@ -6,6 +6,8 @@ QQ：275258836
 [感觉本文内容不错，读后有收获？](https://shop127352015.taobao.com/?spm=a230r.7195193.1997079397.2.B0seHv)
 [逛逛衣服店，鼓励作者写出更好文章。](https://shop127352015.taobao.com/?spm=a230r.7195193.1997079397.2.B0seHv)
 
+[85、Percona-5.7.15 二进制版安装以及启动](http://www.ttlsa.com/mysql/percona-5-7-15-binary-version-install-and-start/)
+
 [84、MySQL表信息统计](http://www.ttlsa.com/mysql/mysql-table-columns-statistics-python-mysql-replication/)
 
 [83、利用binlog完成实时计算](http://www.ttlsa.com/database/mysql-binlog-complete-real-time-computing/)
@@ -110,77 +112,4 @@ QQ：275258836
 
 [33、表迁移工具的选型-复制ibd的方法](https://www.ttlsa.com/mysql/migration_tools_selected_3/)
 
-[32、表迁移工具的选型-mysqlpump](https://www.ttlsa.com/mysql/migration_tools_selected_2/)
-
-[31、表迁移工具的选型(1)](https://www.ttlsa.com/mysql/migration_tools_selected_1/)
-
-[30、会用JOIN，却不懂编程的“程序员”（6）](https://www.ttlsa.com/mysql/using_join_no_programing_6/)
-
-[29、会用JOIN，却不懂编程的“程序员”（5）](https://www.ttlsa.com/mysql/using_join_no_programing_5/)
-
-[28、会用JOIN，却不懂编程的“程序员”（4）](https://www.ttlsa.com/mysql/using_join_no_programing_4/)
-
-[27、会用JOIN，却不懂编程的“程序员”（3）](https://www.ttlsa.com/mysql/using_join_no_programing_3/)
-
-[26、会用JOIN，却不懂编程的“程序员”（2）](https://www.ttlsa.com/mysql/using_join_no_programing_2/)
-
-[25、会用JOIN，却不懂编程的“程序员”（1）](https://www.ttlsa.com/mysql/using_join_no_programing_1/)
-
-[24、MySQL基线测试](https://www.ttlsa.com/mysql/mysql-test-for-baseline/)
-
-[23、MySQL分库分表(番外篇3)-小表冗余](https://www.ttlsa.com/mysql/mysql-distributed-database-and-table-order-small-table-redundancy/)
-
-[22、MySQL分库分表(番外篇2)-使用redis](https://www.ttlsa.com/mysql/mysql-distributed-database-and-table-other-use-redis/)
-
-[21、MySQL分库分表(番外篇1)-使用kafka记入日志](https://www.ttlsa.com/mysql/mysql-distributed-database-and-table-other-use-kafka-log/)
-
-[20、MySQL分库分表缩容(11)](https://www.ttlsa.com/mysql/mysql-distributed-database-and-table-reduce-capacity/)
-
-[19、MySQL分库分表弃强妥最提高性能(10th)](https://www.ttlsa.com/mysql/mysql-distributed-database-and-table-give-and-get-performance/)
-
-[18、Python+MySQL分库分表实战（书）](https://www.ttlsa.com/mysql/python-mysql-split-db-tb-train/)
-
-[17、MySQL反经验定律创建索引](https://www.ttlsa.com/mysql/mysql-reverse-experience-law-create-index/)
-
-[16、MySQL分库分表-多实例INSERT的困扰(9th)](http://www.ttlsa.com/mysql/mysql-distributed-database-and-table-insert-trouble/)
-
-[15、MySQL分库分表分库后的查询(8th)](http://www.ttlsa.com/mysql/mysql-distributed-database-and-table-database-query/)
-
-[14、MySQL分库分表python实现分库(7th)](http://www.ttlsa.com/mysql/mysql-distributed-database-and-table-python-example/)
-
-[13、MySQL分库分表分库准备(6th)](http://www.ttlsa.com/mysql/mysql-distributed-database-and-table-prepare/)
-
-[12、MySQL分库分表分表后数据的查询(5th)](http://www.ttlsa.com/mysql/mysql-distributed-database-and-table-query/)
-
-[11、MySQL分库分表单库分表和迁移数据(4th)](http://www.ttlsa.com/mysql/mysql-distributed-database-and-table-shared-table-and-move/)
-
-[10、MySQL分库分表使用Snowflake全局ID生成器(3rd)](http://www.ttlsa.com/mysql/mysql-distributed-database-and-table-snowflake-unique-id/)
-
-[9、MySQL分库分表创建新表结构(2nd)](http://www.ttlsa.com/mysql/mysql-distributed-database-and-table-create-new-table/)
-
-[8、MySQL分库分表基础表介绍(1st)](http://www.ttlsa.com/mysql/mysql-distributed-database-and-table-base-table-introduction/)
-
-[7、python 生成excel报表](http://www.ttlsa.com/python/python-generate-excel-report/)
-
-[6、phpMyAdmin权限控制 root用户也没辙](http://www.ttlsa.com/mysql/phpmyadmin-access-control/)
-
-[5、kafka的使用—系统保卫战](http://www.ttlsa.com/linux/kafka-use-system-defense/)
-
-[4、python 自动上传发布上线](http://www.ttlsa.com/python/python-auto-publish-project/)
-
-[3、Python日常巡检程序（daily-check）](http://www.ttlsa.com/python/python-daily-check/)
-
-[2、Xtrabackup 每日增量恢复 – Awaken](http://www.ttlsa.com/mysql/xtrabackup-restore-awaken/)
-
-[1、Xtrabackup每周增量备份脚本程序(含附件)](http://www.ttlsa.com/mysql/xtrabackup-daily-backup/)
-
-
-更多文章，敬请期待。。。
-
-昵称：HH
-
-QQ：275258836
-
-[感觉本文内容不错，读后有收获？](https://shop127352015.taobao.com/?spm=a230r.7195193.1997079397.2.B0seHv)
-
-[逛逛衣服店，鼓励作者写出更好文章。](https://shop127352015.taobao.com/?spm=a230r.7195193.1997079397.2.B0seHv)
+[32、
