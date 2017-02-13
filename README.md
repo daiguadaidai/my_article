@@ -3,9 +3,6 @@
 
 QQ：275258836
 
-[感觉本文内容不错，读后有收获？](https://shop127352015.taobao.com/?spm=a230r.7195193.1997079397.2.B0seHv)
-[逛逛衣服店，鼓励作者写出更好文章。](https://shop127352015.taobao.com/?spm=a230r.7195193.1997079397.2.B0seHv)
-
 [86、pt-archiver Bug不会迁移max(id)那条数据](http://www.ttlsa.com/mysql/pt-archiver-bug-cannot-migration-max-id-record/)
 
 [85、Percona-5.7.15 二进制版安装以及启动](http://www.ttlsa.com/mysql/percona-5-7-15-binary-version-install-and-start/)
@@ -184,7 +181,3 @@ QQ：275258836
 昵称：HH
 
 QQ：275258836
-
-[感觉本文内容不错，读后有收获？](https://shop127352015.taobao.com/?spm=a230r.7195193.1997079397.2.B0seHv)
-
-[逛逛衣服店，鼓励作者写出更好文章。](https://shop127352015.taobao.com/?spm=a230r.7195193.1997079397.2.B0seHv)
